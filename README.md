@@ -11,3 +11,4 @@ Currently I still play around with bot trading, but in a much simplified way usi
 <br>
 <br>
 Data can be pulled either for the FOREX or Crypto markets via their respective Python Files. Different indicators are computed and added to the training file. This file can then be used to train the models. I seperated the models into Buys and Sells and each model will predict a percent probability of the candle moving a certain percentage in their specific direction. The bot can then be coded to act  depending on the percent predicted by the models.
+
